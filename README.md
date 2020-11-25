@@ -1,6 +1,13 @@
 # MatchSum
 Code for ACL 2020 paper: *[Extractive Summarization as Text Matching](https://arxiv.org/abs/2004.08795)*
 
+## Install
+```bash
+conda create -n matchsum python=3.7 -y
+source activate matchsum
+git clone https://github.com/jireh-father/MatchSum
+
+```
 
 ## Dependencies
 - Python 3.7
